@@ -1,0 +1,22 @@
+{
+    "name": "caramel",
+    "publisher": "syshock",
+    "displayName": "Caramel",
+    "description": "A sweet vscode theme that is easy on the eyes",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Caramel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Caramel-color-theme.json"
+            }
+        ]
+    }
+}
